@@ -11,6 +11,8 @@
 _I am __25__ years old._
 
 _I started training for self-development and continued work in this area._
+
+_Group discussion and problem solving._
 ## __Skills__
 __First level:__ HTML/CSS
 ## Code Examples
