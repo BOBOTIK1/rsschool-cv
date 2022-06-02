@@ -8,6 +8,8 @@
 * __Discord:__ BOBOTIK#4663
 * __GitHub:__ BOBOTIK1
 ## Abaut me
+_I am __25__ years old._
+
 _I started training for self-development and continued work in this area._
 ## __Skills__
 __First level:__ HTML/CSS
