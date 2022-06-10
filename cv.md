@@ -7,7 +7,7 @@
 * __VK:__ https://vk.com/id_bobotik
 * __Discord:__ BOBOTIK#4663
 * __GitHub:__ BOBOTIK1
-## Abaut me
+## About me
 _I am __25__ years old._
 
 _I started training for self-development and continued work in this area._
