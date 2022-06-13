@@ -1,0 +1,40 @@
+.section__left {
+    background-color: black;
+}
+
+.photo {
+    max-width: 380px;
+    max-height: 380px;
+}
+
+.section__title {
+    background-color: rgb(92 92 92);
+    color: #ffffff;
+    margin: 0px;
+    padding: 10px 0px 5px 28px;
+}
+
+.contacts__list {
+    list-style-type: disclosure-closed;
+    padding-inline-start: 28px;
+    line-height: 30px;
+    margin: 0px;
+}
+
+.contacts__item {
+    color: #ffffff;
+}
+
+.contacts__link:hover {
+    color: blue;
+}
+
+.skills__list {
+    list-style-type: disclosure-closed;
+    padding-inline-start: 28px;
+    margin: 0px;
+}
+
+.skills__item {
+    color: #ffffff;
+}
