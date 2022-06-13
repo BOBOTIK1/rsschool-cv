@@ -1,0 +1,30 @@
+.main {
+    display: grid;
+    grid-template-columns: 380px 1fr;
+}
+
+.section__right {
+    background-color: antiquewhite;
+}
+
+.section__name {
+    margin: 100px 150px;
+}
+
+.name__title {
+    margin: 0px;
+    font-size: 50px;
+}
+
+.name-text {
+    margin: 0px;
+    font-size: 20px;
+}
+
+.item-text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0;
+    padding: 10px 15px;
+}
